@@ -1,4 +1,4 @@
-# PWNオーバーフロー入門: ASLR bypassingしてシェルを起動 (SSP、PIE無効で32bit ELF)
+# PWNオーバーフロー入門: ASLR有効状態でアドレスリークを利用してシェルを起動 (SSP、PIE無効で32bit ELF)
 
 ## 参考文献
 
